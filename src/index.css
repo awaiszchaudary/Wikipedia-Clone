@@ -1,0 +1,27 @@
+
+#body{
+    background: url('https://images.unsplash.com/photo-1522100354738-4021bf8454db?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1750&q=80') no-repeat 0 0;
+    
+    height: 1200px;
+    color: white;
+}
+
+#body h1{
+    text-align: center;
+}
+
+#data{
+    
+    background: rgba(88, 87, 87, 0.7);;
+}
+
+#button{
+    background-color: lightseagreen;
+    padding: 9px 20px;
+}
+
+#button a{
+    color: white;
+    
+    text-decoration: none;
+}
